@@ -1,4 +1,4 @@
-<h1>Oie, Me chamo Roberto e possuo 26 anos</h1>
+<h1>Oie, Me chamo Roberto,possuo 26 anos, futuro front-end de qualidade</h1>
 
 💻 - Em busca do primeiro trabalho como Front-End <br>
 📚 - Estudo JavaScript, React.js e TypeScript <br>
