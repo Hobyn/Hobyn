@@ -1,6 +1,5 @@
 <h1>Oie, Me chamo Roberto, possuo 26 anos</h1>
 
-💻 - Em busca do primeiro trabalho como Front-End <br>
 📚 - Estudo JavaScript, React.js e TypeScript <br>
 🥋 - Treino Jiu-Jitsu <br>
 🎣 - Pescador nas horas vagas <br>
