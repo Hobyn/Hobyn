@@ -4,7 +4,7 @@
 📚 - Estudo JavaScript, React.js e TypeScript <br>
 🥋 - Treino Jiu-Jitsu <br>
 🎣 - Pescador nas horas vagas <br>
-🖥 - <a href="https://roberto.dev.br/" target="_blank">roberto.dev.br</a>
+🖥 - <a target="_blank href="https://roberto.dev.br/">roberto.dev.br</a>
 
 <div style="display: inline_block"><br>
 <a href="https://github.com/Hobyn">
