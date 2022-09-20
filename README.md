@@ -1,4 +1,4 @@
-<h1>Oie, Me chamo Roberto, possuo 26 anos</h1>
+<h1>Oie, Me chamo Roberto, tenho 26 anos</h1>
 
 📚 - Estudo JavaScript, React.js e TypeScript <br>
 🥋 - Treino Jiu-Jitsu <br>
