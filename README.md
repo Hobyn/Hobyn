@@ -1,7 +1,8 @@
 <h1>Oie, Me chamo Roberto</h1>
 
-📚 - Estudo JavaScript, React.js e TypeScript <br>
+📚 - Estudo JavaScript <br>
 🥋 - Treino Jiu-Jitsu <br>
+🏋🏼‍♂️ - Treino CrossFit <br>
 🎣 - Pescador nas horas vagas <br>
 🖥 - <a target="_blank" href="https://roberto.dev.br/">roberto.dev.br</a>
 
