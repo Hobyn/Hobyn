@@ -1,9 +1,9 @@
-<h1>Oie, Me chamo Roberto</h1>
+<h1>Hi, my name is Roberto</h1>
 
-📚 - Estudo JavaScript <br>
-🥋 - Treino Jiu-Jitsu <br>
-🏋🏼‍♂️ - Treino CrossFit <br>
-🎣 - Pescador nas horas vagas <br>
+📚 - Study JavaScript <br>
+🥋 - Training Jiu-Jitsu <br>
+🏋🏼‍♂️ - Training CrossFit <br>
+🎣 - Fisherman in his spare time <br>
 🖥 - <a target="_blank" href="https://roberto.dev.br/">roberto.dev.br</a>
 
 <div style="display: inline_block"><br>
@@ -12,7 +12,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobyn&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-<h2>Tecnologias que uso no meu dia</h2>
+<h2>Technologies used in my day</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hobyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +22,7 @@
  <img align="center" alt="Hobyn-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg">
 </div>
 <br>
-<h2>Redes Sociais</h2>
+<h2>Social networks</h2>
 <div> 
   <a href="https://instagram.com/beto_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:robertojunior20171@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
