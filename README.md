@@ -2,7 +2,6 @@
 
 📚 - Study JavaScript <br>
 🥋 - Training Jiu-Jitsu <br>
-🏋🏼‍♂️ - Training CrossFit <br>
 🎣 - Fisherman in his spare time <br>
 🖥 - <a target="_blank" href="https://roberto.dev.br/">roberto.dev.br</a>
 
